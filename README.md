@@ -10,7 +10,7 @@ This makes digital commerce unnecessarily difficult for merchants with limited t
 ## Our Solution
 DukaanScan transforms a simple product image into a structured digital catalog.
 ### How it works
-**📸 Upload → Understand → Generate → Localize → Export**
+**Upload → Understand → Generate → Localize → Export**
 
 1. Merchant uploads product images or a short video.
 2. **Google Gemini** analyzes the product and extracts visible attributes.
